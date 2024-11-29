@@ -1,0 +1,5 @@
+{
+    "class_names": ["cat", "dog", "bird", "fish"],
+    "image_size": [224, 224],
+    "color_mode": "RGB"
+}
