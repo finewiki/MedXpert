@@ -12,7 +12,7 @@ The Medical Database aims to offer solutions for a range of healthcare services,
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/medical-database.git
+   git clone https://github.com/finewiki/Medxpert.git
    ```
 
 2. **Install Dependencies**:
